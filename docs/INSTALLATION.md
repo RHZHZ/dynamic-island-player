@@ -30,7 +30,7 @@ npm install dynamic-island-player-vue      # Vue版本
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/dynamic-island-player.git
+git clone https://github.com/RHZHZ/dynamic-island-player.git
 
 # 进入目录
 cd dynamic-island-player
