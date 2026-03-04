@@ -1,4 +1,5 @@
 # 🎵 灵动岛播放器
+<img width="363" height="79" alt="局部截取_20260305_010243" src="https://github.com/user-attachments/assets/48d2dfdb-e08b-4ace-9f54-f9c1711ff158" />
 
 一套跨平台的macOS风格灵动岛音乐播放器，支持原生JavaScript、React、Vue等多种使用方式。
 
