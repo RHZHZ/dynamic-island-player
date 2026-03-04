@@ -2,11 +2,11 @@
 
 一套跨平台的macOS风格灵动岛音乐播放器，支持原生JavaScript、React、Vue等多种使用方式。
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/npm/v/dynamic-island-player" alt="npm version" />
   <img src="https://img.shields.io/npm/dm/dynamic-island-player" alt="npm downloads" />
   <img src="https://img.shields.io/github/license/yourusername/dynamic-island-player" alt="license" />
-</p>
+</p> -->
 
 ## ✨ 特性
 
